@@ -1,0 +1,46 @@
+
+nav {
+    background-color: rgb(28, 28, 28)
+}
+
+body {
+    background-color: rgb(28, 28, 28);
+    color: white;
+}
+
+button {
+    background-color: rgb(28, 28, 28);
+    color: white;
+}
+
+.input {
+    background-color: rgb(28, 28, 28);
+}
+
+.input-group {
+    margin-left: 76em;
+    width: 30px;
+    background-color: rgb(28, 28, 28);
+    border: rgb(28, 28, 28);
+}
+
+.dropdown-menu {
+    color: white;
+    background-color: rgb(28, 28, 28);
+}
+
+.icon {
+    margin-left: 60px;
+    margin-top: 30px;
+}
+
+.but {
+    margin-top: 20px;
+}
+
+h3 {
+    font-size: 20px;
+    margin-left: 5em;
+    margin-top: 38px;
+    margin-bottom: 17px;
+}
