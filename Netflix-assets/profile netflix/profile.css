@@ -1,0 +1,29 @@
+
+#nav {
+    background-color: rgb(28,28,28) !important;
+    
+}
+
+body {
+    background-color: rgb(28,28,28);
+    color: rgb(204, 195, 195);
+}
+
+button {
+    color: white;
+    background-color: rgb(28,28,28);
+}
+
+p {
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+h5 {
+    font-size: 17px;
+    margin-top: 10px
+}
+
+button {
+    border-radius: 0;
+}
